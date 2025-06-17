@@ -73,4 +73,5 @@ ar-wardrobe-app/
 
 ## Author
 
-- Rohit kumar
+- Rohit kumar 
+- Harish
